@@ -6,15 +6,6 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Schnur',
-  headTags: [
-    {
-      tagName: 'link',
-      attributes: {
-        href: 'https://fonts.googleapis.com/css2?family=Germania+One&display=swap',
-        rel: 'stylesheet',
-      },
-    },
-  ],
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
