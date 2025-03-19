@@ -22,7 +22,13 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Germania+One&display=swap');
+@font-face {
+  font-family: 'Germania One';
+  src: url('../fonts/GermaniaOne-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
 
 .navbar {
   background-color: rgb(222, 40, 40) !important;
