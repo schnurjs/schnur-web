@@ -1,10 +1,10 @@
 ---
 id: introduction
-title: Introduction to Immer
+title: Introduction
 sidebar_label: Introduction
 slug: /
 ---
 
-# Introduction to Schnur
+# Introduction
 
-Schnur means 'string' in German
+Schnur (German for: string) is a powerful library that allows you to develop customized parsers for your own situations.
