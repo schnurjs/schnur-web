@@ -39,5 +39,10 @@
   font-family: 'Germania One', cursive;
   font-size: 36px;
   font-weight: 500;
-  padding: 2px 0px 0px;
+  padding: 2px 8px 0px 16px;
+}
+
+.navbar__link {
+  font-size: 17px;
+  font-weight: 600;
 }
