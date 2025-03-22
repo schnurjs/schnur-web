@@ -7,4 +7,6 @@ slug: /
 
 # Introduction
 
-Schnur (German for: string) is a powerful library that allows you to develop customized parsers for your own situations.
+Schnur (which means 'string' in German) is a powerful library for building your own stateful parsers. 
+
+generate structured results with minimal effort.
